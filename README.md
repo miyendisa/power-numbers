@@ -1,4 +1,4 @@
-# Döngüleri Pekiştirmek için Sayılarla Yapılan Pratik
+# Döngüleri Pekiştirmek için Sayılarla Yapılan Pratikler
 
 Bu repo içerisinde aşağıdaki dosyaları barındırmaktadır.
 * Bir adet README.md
